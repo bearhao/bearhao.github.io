@@ -1,0 +1,2 @@
+# bearhao.github.io
+hugo
